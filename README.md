@@ -1,4 +1,4 @@
 # Sorting Algorithms in C++
-BubbleSort
-InsertionSort
-SelectionSort
+#BubbleSort 
+#InsertionSort
+#SelectionSort
