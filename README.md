@@ -1,2 +1,2 @@
 # Sorting Algorithms in C++
-##Bubblesort
+Bubblesort
